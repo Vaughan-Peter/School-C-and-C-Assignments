@@ -1,0 +1,3 @@
+C:/Users/vaugh/Dropbox/1 NSCC/C++/PeterVaughan_PROG2100_Assignment1_Output_Hipster's Local Vinyl Records/cmake-build-debug/CMakeFiles/PeterVaughan_PROG2100_Assignment1_Output_Hipster_s_Local_Vinyl_Records.dir
+C:/Users/vaugh/Dropbox/1 NSCC/C++/PeterVaughan_PROG2100_Assignment1_Output_Hipster's Local Vinyl Records/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vaugh/Dropbox/1 NSCC/C++/PeterVaughan_PROG2100_Assignment1_Output_Hipster's Local Vinyl Records/cmake-build-debug/CMakeFiles/rebuild_cache.dir
